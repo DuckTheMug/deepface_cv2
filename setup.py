@@ -19,5 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent"
     ],
     python_requires='>=3.6',
-    install_requires=["opencv-python"]
+    install_requires=["opencv-python>=4.9.0.80"]
 )
